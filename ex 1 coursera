@@ -5,14 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Food Menu</title>
     <style>
-        /* Basic styling for the menu items */
         .menu-item {
             background-color: #f5f5f5;
             padding: 10px;
             margin-bottom: 10px;
             border-radius: 5px;
         }
-        /* Additional styling for specific items */
         .chicken {
             color: #ff6347;
         }
